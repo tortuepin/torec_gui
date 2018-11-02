@@ -7,3 +7,4 @@ This is the minimal electron app with react.
 4. ``` npm run start ```
 
 # screen shot
+![screenshot](./screenshot.png)
