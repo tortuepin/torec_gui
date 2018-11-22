@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": ".",
-  "main" : "./src/main.js",
+  "main": "./src/main.js",
   "dependencies": {
     "electron": "^3.0.7",
     "react": "^16.6.0",
