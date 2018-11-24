@@ -1,4 +1,4 @@
-This is the minimal electron app with react.
+This is the minimal electron app with react and reducer.
 
 # USAGE
 1. clone this repository. ```git clone git@github.com:tortuepin/min-react-electron.git```
