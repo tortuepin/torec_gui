@@ -1,10 +1,7 @@
-This is the minimal electron app with react and reducer.
+楽器練習のための録音ツール
 
-# USAGE
-1. clone this repository. ```git clone git@github.com:tortuepin/min-react-electron.git```
-2. ``` npm run install ```
-3. ``` npm run build ```
-4. ``` npm run start ```
+- 録音
+- 再生
+- 録音リスト表示
 
-# screen shot
-![screenshot](./screenshot.png)
+とか
